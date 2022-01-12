@@ -1,12 +1,18 @@
-# Frontend Mentor Challenge - Huddle landing page with single introductory section
+# Desafio Criar Landing Page Frontend Mentor - Challenge Huddle landing page with single introductory section
+link> https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub/huddle-landing-page-with-a-single-introductory-section-sCdBB6KXA
 
-![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
+Minha solução:
+
+![desktop](https://user-images.githubusercontent.com/7409421/149055675-b6ab8a03-ac2a-44b5-9024-debff6083d5a.png)
+
+![mobile](https://user-images.githubusercontent.com/7409421/149055681-83900f76-0bc5-46f2-8f71-30df3e3ac8db.png)
+
 
 ## Bem-vindo! - Welcome! 👋
 
 Desafio para criar uma landing page baseado em um design.
 
-**Tecnologias utilizadas: HTML e CSS - To do this challenge, you need a basic understanding of HTML and CSS.**
+## Tecnologias utilizadas: HTML e CSS - To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## O desefaio - The challenge
 
